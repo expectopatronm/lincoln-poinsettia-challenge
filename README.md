@@ -37,56 +37,40 @@ My solution consisted of two following stages:
 I decided to first augment the dataset of just 150 images to produce more diverse and varied frames which whould help in generalizing better. 
 The various augmentation methods were as follows.
 
-### Flip
-
+#### Flip
 Add horizontal or vertical flips to help your model be insensitive to subject orientation.
-
-![](documentation_files/1.PNG)
-
-### 90° Rotate
+#### 90° Rotate
 Add 90-degree rotations to help your model be insensitive to camera orientation.
 
-![](documentation_files/2.PNG)
+![](documentation_files/12.PNG)
 
-### Crop
+#### Crop
 Add variability to positioning and size to help your model be more resilient to subject translations and camera position.
-
-![](documentation_files/3.PNG)
-
-### Rotation
+#### Rotation
 Add variability to rotations to help your model be more resilient to camera roll.
 
-![](documentation_files/4.PNG)
+![](documentation_files/34.PNG)
 
-### Shear
+#### Shear
 Add variability to perspective to help your model be more resilient to camera and subject pitch and yaw.
-
-![](documentation_files/5.PNG)
-
-### Grayscale
+#### Grayscale
 Probabilistically apply grayscale to a subset of the training set.
 
-![](documentation_files/6.PNG)
+![](documentation_files/56.PNG)
 
-### Hue
+#### Hue
 Randomly adjust the colors in the image.
-
-![](documentation_files/7.PNG)
-
-### Saturation
+#### Saturation
 Randomly adjust the vibrancy of the colors in the images.
 
-![](documentation_files/8.PNG)
+![](documentation_files/78.PNG)
 
 ### Brightness
 Add variability to image brightness to help your model be more resilient to lighting and camera setting changes.
-
-![](documentation_files/9.PNG)
-
 ### Exposure
 Add variability to image brightness to help your model be more resilient to lighting and camera setting changes.
 
-![](documentation_files/10.PNG)
+![](documentation_files/910.PNG)
 
 ### Blur
 Add random Gaussian blur to help your model be more resilient to camera focus.
