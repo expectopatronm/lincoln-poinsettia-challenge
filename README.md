@@ -8,9 +8,7 @@ AgriFoRwArdS is the world's first Centre for Doctoral Training (CDT) in Agri-Foo
 
 ![](documentation_files/AgriForwards.svg)
 
----
 # Poinsietta Challenge
-
 The poinsettia is a commercially important plant species of the diverse spurge family. Indigenous to Mexico and Central America, the poinsettia was first described by Europeans in 1834. It is particularly well known for its red and green foliage and is widely used in Christmas floral displays.
 
 The Lincoln Agri-Robotics Poinsettia Challenge is a holiday-themed machine learning and computer
@@ -20,9 +18,7 @@ among other attributes.
 
 ## 2nd Place Winner
 
----
 ## Find the 'bracts' challenge
-
 ![](documentation_files/poinsettia_test1.jpg)
 
 The goal of the Find the bracts challenge is to find all the bracts (plant heads) in an image. This
@@ -116,7 +112,5 @@ was conducted. A secondary distillation of the various Yolov5 architectures was 
 
 ## Inference Results
 ![](documentation_files/test_batch1_pred.jpg)
-
----
 
 ![](documentation_files/unnamed.png)
