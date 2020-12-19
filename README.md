@@ -16,14 +16,14 @@ vision competition to devise intelligent ways to help identify features that con
 "best" poinsettia. We will be looking at the height of the plant, colour of the leaves, and bushiness
 among other attributes.
 
-## 2nd Place Winner
+### 2nd Place Winner
 
 ## Find the 'bracts' challenge
-![](documentation_files/poinsettia_test1.jpg)
-
 The goal of the Find the bracts challenge is to find all the bracts (plant heads) in an image. This
 could be used to estimate plant density, which is another criteria for grading poinsettia plants used
 in nurseries.
+
+![](documentation_files/poinsettia_test1.jpg)
 
 ## Solution
 
